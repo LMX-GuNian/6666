@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-            //hfuisherfubseoe
+            //hfuisherfubseoe/才同意的传统
         }
     }
 }
